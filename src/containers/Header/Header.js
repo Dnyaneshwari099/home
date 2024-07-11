@@ -20,7 +20,8 @@ export class Header extends Component {
     return (
       <header className={classes.Header}>
         <div className={classes.HeaderContainer}>
-          <div className={classes.AppName}>Home Automation UI</div>
+          <div className={classes.AppName}>SmartDwell UI
+          </div>
           <div className={classes.Navigation}>
             <Navigation>
               <NavigationItem>

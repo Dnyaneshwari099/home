@@ -37,13 +37,7 @@ export class SideDrawer extends Component {
                 <NavLink to="/">Rooms</NavLink>
               </NavigationItem>
               <NavigationItem>
-                <a
-                  href="https://github.com/AbdelrahmanSE/home-automation-ui"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Github
-                </a>
+                
               </NavigationItem>
             </Navigation>
         </div>
